@@ -1,0 +1,8 @@
+### adult_data
+url_adult_data = 'https://raw.githubusercontent.com/amueller/introduction_to_ml_with_python/refs/heads/main/data/adult.data'
+
+### citibike
+url_citibike = 'https://raw.githubusercontent.com/amueller/introduction_to_ml_with_python/refs/heads/main/data/citibike.csv'
+
+### ram_price
+url_ram_price = 'https://raw.githubusercontent.com/amueller/introduction_to_ml_with_python/refs/heads/main/data/ram_price.csv'
